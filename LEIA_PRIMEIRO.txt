@@ -1,0 +1,9 @@
+PROJECT WILDERNESS - BUILD 42
+1. Extraia este arquivo no seu PC.
+2. Abra a pasta extraída no Codex.
+3. Cole todo o conteúdo de CODEX_PROMPT.txt na conversa do Codex.
+4. Rode tools\install.ps1 pelo PowerShell (instruções no README.md).
+5. Ative o mod no Zomboid e crie um save Sandbox sem zumbis.
+
+IMPORTANTE: O MAPA SELVAGEM SEM CIDADES AINDA NAO FOI VALIDADO.
+O Codex no PC precisa descobrir como o WorldGen funciona na sua Build 42.
